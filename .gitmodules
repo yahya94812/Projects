@@ -1,3 +1,6 @@
 [submodule "Short-Projects"]
 	path = Short-Projects
 	url = https://github.com/yahya94812/Short-Projects.git
+[submodule "learn-flow-ai"]
+	path = learn-flow-ai
+	url = https://github.com/yahya94812/learn-flow-ai.git
