@@ -7,3 +7,9 @@
 [submodule "share-fastly"]
 	path = share-fastly
 	url = https://github.com/yahya94812/share-fastly.git
+[submodule "pdalabs.github.io"]
+	path = pdalabs.github.io
+	url = https://github.com/yahya94812/pdalabs.github.io.git
+[submodule "sharefastly.github.io"]
+	path = sharefastly.github.io
+	url = https://github.com/yahya94812/sharefastly.github.io.git
